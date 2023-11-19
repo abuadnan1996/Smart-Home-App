@@ -8,4 +8,4 @@ This app is designed to control IoT home appliances. Firebase Real time Database
 <h4> User Interface </h4>
 <img src="UI.jpg">
 <h4> Configuration Page </h4>
-<img src="configure.jpg">
+<img src="configure page.jpg">
