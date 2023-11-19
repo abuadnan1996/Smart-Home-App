@@ -5,3 +5,5 @@ This app is designed to control IoT home appliances. Firebase Real time Database
   <li> 6 Appliance Control Switch</li>
   <li> Configurable Firebase Realtime Database</li>
 </ul>
+<h4> User Interface </h4>
+<img src="UI.jpg> 
