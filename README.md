@@ -4,11 +4,8 @@ This app is designed to control IoT home appliances. Firebase Real time Database
 <ul>
   <li> 6 Appliance Control Switch</li>
   <li> Configurable Firebase Realtime Database</li>
+  <li> Dynamically changes status of the buttons and icons based on Realtime database value. </li>
 </ul>
-<h4> User Interface </h4>
-<img src="UI.jpg">
-<h4> Configuration Page </h4>
-<img src="configure.jpg">
 <h4> How to get Authentication Key</h4>
 <ul>
   <li> Go to Firebase Console</li>
@@ -20,3 +17,8 @@ This app is designed to control IoT home appliances. Firebase Real time Database
   <li> Copy Secret Key and Paste it to Authenction Key Field in App </li>
   <b> DO NOT Share Database Secret Key and URL with anyone. </b>
 </ul>
+<h4> User Interface </h4>
+<img src="UI.jpg">
+<h4> Configuration Page </h4>
+<img src="configure.jpg">
+
