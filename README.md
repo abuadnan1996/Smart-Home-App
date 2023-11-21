@@ -8,7 +8,7 @@ This app is designed to control IoT home appliances. Firebase Real time Database
 </ul>
 <h4> How to get Authentication Key</h4>
 <ul>
-  <li> Go to Firebase Console</li>
+  <li> Go to Firebase Console. https://console.firebase.google.com/ < </li>
   <li> Select Project </li>
   <li> Go to Project Settings </li>
   <li> Go to Service Account </li>
