@@ -20,7 +20,7 @@ This app is designed to control IoT home appliances. Firebase Real time Database
   
 </ul>
 <h4> User Interface </h4>
-<img src="UI.jpg" width="200" height="400">
+<img src="UI.jpg" width="300" height="600"> <img src="configure.jpg" width="300" height="600">
 <h4> Configuration Page </h4>
-<img src="configure.jpg" width="200" height="400">
+
 
