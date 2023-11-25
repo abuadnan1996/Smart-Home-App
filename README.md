@@ -19,8 +19,15 @@ This app is designed to control IoT home appliances. Firebase Real time Database
   <h6> <i> You can edit configuration anytime by long pressing "Smart Home" title at home page of the app.</i> </h6>
   
 </ul>
-<h4> User Interface </h4>
-<img src="UI.jpg" width="300" height="600"> <img src="configure.jpg" width="300" height="600">
-<h4> Configuration Page </h4>
+<table>
+  <tr> 
+    <th> User Interface </th>
+    <th> Configuration Page </th>
+  </tr>
+  <tr>
+    <td> <img src="UI.jpg" width="300" height="600"> </td>
+    <td> <img src="configure.jpg" width="300" height="600"> </td>
+  </tr>
+</table>
 
 
